@@ -1,0 +1,12 @@
+{
+  "name": "cypress-workshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^11.2.0"
+  },
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
+}
